@@ -1,0 +1,6 @@
+type: k8sresmetrics
+
+status:
+  class: receiver
+  stability:
+    beta: [metrics]
